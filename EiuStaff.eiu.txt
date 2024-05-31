@@ -1,0 +1,14 @@
+ID number: 1
+Fullname: huan
+Date of birth: 5/5/2003
+Academic rank: 1
+Academic degree: a
+Number of teaching years: 2
+Number of taught subjects: [1, 2, 3, 4, 5]are:
+1
+2
+3
+4
+5
+Salary: 24000.0
+
